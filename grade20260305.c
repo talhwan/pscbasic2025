@@ -1,5 +1,5 @@
 #include <stdio.h>
-// gcc -o main a.c
+// gcc -o main sample.c
 // ./main
 int main()
 {
